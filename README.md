@@ -11,8 +11,8 @@ to clone this project locally and run the rspec tests, do the folowing:
 - insure you have ruby installed on your machine
 
 ```bash
-git clone <your_repo.url>
-cd <your_repo>
+git clone https://github.com/Gus-Meyer/deck_of_cards.git
+cd https://github.com/Gus-Meyer/deck_of_cards.git
 rspec
 ```
 
